@@ -1,0 +1,209 @@
+[01:17:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:17:30] [ServerMain/INFO]: Loaded 7 recipes
+[01:17:30] [ServerMain/INFO]: Loaded 1271 advancements
+[01:17:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:17:31] [Server thread/INFO]: Loading properties
+[01:17:31] [Server thread/INFO]: Default game type: SURVIVAL
+[01:17:31] [Server thread/INFO]: Generating keypair
+[01:17:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:17:31] [Server thread/INFO]: Using epoll channel type
+[01:17:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:17:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:17:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:17:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:17:31] [Server thread/INFO]: Preparing level "world"
+[01:17:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:17:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:17:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:17:39] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[01:17:39] [Server thread/INFO]: Time elapsed: 5910 ms
+[01:17:39] [Server thread/INFO]: Done (8.420s)! For help, type "help"
+[01:18:11] [Server thread/INFO]: Ricardo20104[/[0:0:0:0:0:0:0:1%0]:55272] logged in with entity id 77 at (-318.9458917060525, 82.0, -5146.250969413168)
+[01:18:11] [Server thread/INFO]: Ricardo20104 joined the game
+[01:18:37] [Server thread/INFO]: Thom[/[0:0:0:0:0:0:0:1%0]:59178] logged in with entity id 326 at (1001.3239674628541, 65.0, -7148.086357792041)
+[01:18:37] [Server thread/INFO]: Thom joined the game
+[01:18:48] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:40950] logged in with entity id 585 at (1006.2982660337674, 69.00133597911214, -7240.789316300771)
+[01:18:48] [Server thread/INFO]: jurandir97 joined the game
+[01:19:08] [Server thread/INFO]: Ricardo20104 lost connection: Disconnected
+[01:19:08] [Server thread/INFO]: Ricardo20104 left the game
+[01:24:55] [Server thread/INFO]: jurandir97 lost connection: Disconnected
+[01:24:55] [Server thread/INFO]: jurandir97 left the game
+[01:30:50] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:39310] logged in with entity id 6916 at (1081.0760083885853, 71.0, -8022.187577092962)
+[01:30:50] [Server thread/INFO]: jurandir97 joined the game
+[01:35:05] [Server thread/INFO]: [Not Secure] <Thom> oe
+[01:35:07] [Server thread/INFO]: [Not Secure] <Thom> discord'
+[01:35:09] [Server thread/INFO]: [Not Secure] <jurandir97> pera
+[01:35:12] [Server thread/INFO]: [Not Secure] <Thom> don andas
+[01:41:50] [Server thread/WARN]: Oak Boat (vehicle of jurandir97) moved wrongly! 0.3414826311950026
+[01:41:50] [Server thread/WARN]: Oak Boat (vehicle of jurandir97) moved wrongly! 0.4637151113741123
+[01:41:50] [Server thread/WARN]: Oak Boat (vehicle of jurandir97) moved wrongly! 0.5831801705975114
+[01:41:50] [Server thread/WARN]: Oak Boat (vehicle of jurandir97) moved wrongly! 0.6982542395868075
+[01:49:57] [Server thread/INFO]: [Not Secure] <Thom> donde estas?
+[01:50:15] [Server thread/INFO]: [Not Secure] <jurandir97> 10k
+[01:50:26] [Server thread/INFO]: [Not Secure] <Thom> manda cordenadas
+[01:52:41] [Server thread/INFO]: [Not Secure] <jurandir97> 737 -10735
+[01:54:07] [Server thread/INFO]: Ricardo20104[/[0:0:0:0:0:0:0:1%0]:33812] logged in with entity id 27464 at (-318.9458917060525, 82.0, -5146.250969413168)
+[01:54:07] [Server thread/INFO]: Ricardo20104 joined the game
+[01:54:08] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[01:54:08] [Server thread/INFO]: jurandir97 left the game
+[01:54:08] [Server thread/WARN]: handleDisconnection() called twice
+[01:54:17] [Server thread/INFO]: [Ricardo20104: Teleported Ricardo20104 to Thom]
+[01:54:33] [Server thread/INFO]: Ricardo20104 lost connection: Disconnected
+[01:54:33] [Server thread/INFO]: Ricardo20104 left the game
+[01:56:02] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:43270] logged in with entity id 27944 at (736.3125, 63.08576431274413, -10746.68844139006)
+[01:56:02] [Server thread/INFO]: jurandir97 joined the game
+[01:56:32] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[01:56:32] [Server thread/INFO]: jurandir97 left the game
+[01:56:50] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:59050] logged in with entity id 28656 at (736.8181047297356, 63.0, -10748.624904098586)
+[01:56:50] [Server thread/INFO]: jurandir97 joined the game
+[01:57:21] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[01:57:21] [Server thread/INFO]: jurandir97 left the game
+[01:57:31] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:44164] logged in with entity id 30679 at (736.2939233313448, 63.0, -10748.552643367251)
+[01:57:31] [Server thread/INFO]: jurandir97 joined the game
+[01:58:31] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[01:58:31] [Server thread/INFO]: jurandir97 left the game
+[01:59:01] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:54142] logged in with entity id 34285 at (735.8535426310675, 62.29100075013224, -10745.267868625731)
+[01:59:01] [Server thread/INFO]: jurandir97 joined the game
+[01:59:02] [Server thread/WARN]: Thom moved too quickly! -5.700686030451493,-1.80312876760199,-16.60139432167216
+[01:59:26] [Server thread/INFO]: [Not Secure] <jurandir97> estas?
+[01:59:29] [Server thread/INFO]: [Not Secure] <Thom> si
+[02:00:20] [Server thread/WARN]: jurandir97 moved too quickly! 2.2793604165074157,-1.1621414210270018,-9.732982681955036
+[02:01:31] [Server thread/INFO]: [Not Secure] <Thom> ya vuelvo
+[02:01:32] [Server thread/INFO]: Thom lost connection: Disconnected
+[02:01:32] [Server thread/INFO]: Thom left the game
+[02:10:47] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[02:10:47] [Server thread/INFO]: jurandir97 left the game
+[02:11:01] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:38800] logged in with entity id 45848 at (634.4257434680059, 66.0, -11826.940435867602)
+[02:11:01] [Server thread/INFO]: jurandir97 joined the game
+[02:15:31] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[02:15:31] [Server thread/INFO]: jurandir97 left the game
+[02:16:18] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:46590] logged in with entity id 49069 at (1483.84562048487, 64.0, -12115.0048286872)
+[02:16:18] [Server thread/INFO]: jurandir97 joined the game
+[02:16:48] [Server thread/INFO]: jurandir97 lost connection: Timed out
+[02:16:48] [Server thread/INFO]: jurandir97 left the game
+[02:17:27] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:44088] logged in with entity id 49503 at (1513.9427368416652, 62.30696165961113, -12148.48831065484)
+[02:17:27] [Server thread/INFO]: jurandir97 joined the game
+[02:20:21] [Server thread/INFO]: jurandir97 lost connection: Disconnected
+[02:20:21] [Server thread/INFO]: jurandir97 left the game
+[02:20:29] [Server thread/INFO]: jurandir97[/[0:0:0:0:0:0:0:1%0]:43950] logged in with entity id 50774 at (1428.698769615834, 64.0, -12383.837250351038)
+[02:20:29] [Server thread/INFO]: jurandir97 joined the game
+[02:25:00] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1506, y=68, z=-12231} hx{x=1506, y=67, z=-12230}
+[02:25:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1493, y=66, z=-12231} hx{x=1494, y=65, z=-12230}
+[02:25:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1493, y=66, z=-12231} hx{x=1494, y=65, z=-12230}
+[02:25:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1493, y=66, z=-12231} hx{x=1494, y=65, z=-12230}
+[02:25:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1493, y=66, z=-12231} hx{x=1494, y=65, z=-12230}
+[02:25:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1493, y=66, z=-12231} hx{x=1494, y=65, z=-12230}
+[02:25:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1496, y=65, z=-12225} hx{x=1495, y=65, z=-12225}
+[02:32:12] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=63, z=-12246} hx{x=1450, y=63, z=-12249}
+[02:32:12] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=63, z=-12246} hx{x=1450, y=63, z=-12249}
+[02:32:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1453, y=60, z=-12246} hx{x=1453, y=61, z=-12245}
+[02:32:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=63, z=-12244} hx{x=1452, y=61, z=-12246}
+[02:32:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=63, z=-12244} hx{x=1452, y=61, z=-12246}
+[02:32:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=63, z=-12244} hx{x=1452, y=61, z=-12246}
+[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12244} hx{x=1452, y=62, z=-12242}
+[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12244} hx{x=1452, y=62, z=-12242}
+[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12244} hx{x=1452, y=62, z=-12242}
+[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12244} hx{x=1452, y=62, z=-12242}
+[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12244} hx{x=1452, y=62, z=-12242}
+[02:32:15] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12244} hx{x=1452, y=62, z=-12242}
+[02:32:16] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12242} hx{x=1452, y=62, z=-12242}
+[02:32:16] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1454, y=62, z=-12242} hx{x=1452, y=62, z=-12242}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1456, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1457, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:32:27] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1457, y=63, z=-12237} hx{x=1455, y=62, z=-12237}
+[02:42:02] [Server thread/INFO]: jurandir97 was blown up by Creeper
+[03:14:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1526, y=68, z=-12282} hx{x=1526, y=66, z=-12283}
+[03:14:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1525, y=68, z=-12284} hx{x=1527, y=66, z=-12284}
+[03:14:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1525, y=68, z=-12284} hx{x=1527, y=66, z=-12284}
+[03:25:52] [Server thread/INFO]: Ricardo20104[/[0:0:0:0:0:0:0:1%0]:56562] logged in with entity id 65793 at (295.9492086042858, 71.0, -5692.351338313335)
+[03:25:52] [Server thread/INFO]: Ricardo20104 joined the game
+[03:25:59] [Server thread/INFO]: [Ricardo20104: Teleported Ricardo20104 to jurandir97]
+[03:26:05] [Server thread/INFO]: [Not Secure] <jurandir97> tepeate
+[03:26:11] [Server thread/INFO]: [Not Secure] <Ricardo20104> aca va a ser?
+[03:26:19] [Server thread/INFO]: [Not Secure] <jurandir97> te parece bien?
+[03:26:23] [Server thread/INFO]: [Not Secure] <Ricardo20104> shi
+[03:26:32] [Server thread/INFO]: [Not Secure] <jurandir97> aca entonces
+[03:26:37] [Server thread/INFO]: [Not Secure] <Ricardo20104> chevere
+[03:26:56] [Server thread/INFO]: [Not Secure] <Ricardo20104> voy a poner mas bonito el generador de aldeanos oki?
+[03:27:01] [Server thread/INFO]: [Not Secure] <jurandir97> ok
+[03:27:25] [Server thread/INFO]: [Not Secure] <Ricardo20104> ponle papas
+[03:27:27] [Server thread/INFO]: [Not Secure] <Ricardo20104> yo tengo
+[03:35:03] [Server thread/INFO]: [Not Secure] <Ricardo20104> chamo no tendras una cama?
+[03:35:13] [Server thread/INFO]: [Not Secure] <jurandir97> si tengo
+[03:35:27] [Server thread/INFO]: [Not Secure] <Ricardo20104> pasame p
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12261} hx{x=1446, y=61, z=-12259}
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12261} hx{x=1446, y=61, z=-12259}
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12261} hx{x=1446, y=61, z=-12259}
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12262} hx{x=1446, y=61, z=-12259}
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12262} hx{x=1446, y=61, z=-12259}
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12262} hx{x=1446, y=61, z=-12259}
+[03:47:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1447, y=63, z=-12262} hx{x=1446, y=61, z=-12259}
+[03:53:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=64, z=-12242} hx{x=1450, y=63, z=-12242}
+[03:53:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1452, y=64, z=-12242} hx{x=1450, y=63, z=-12242}
+[03:57:42] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1435, y=70, z=-12156} hx{x=1434, y=69, z=-12155}
+[03:58:02] [Server thread/INFO]: jurandir97 was killed by Witch using magic
+[03:58:56] [Server thread/INFO]: [Ricardo20104: Set the time to 1000]
+[03:59:19] [Server thread/INFO]: [Not Secure] <jurandir97> mano
+[03:59:26] [Server thread/INFO]: [Not Secure] <Ricardo20104> que fuego?
+[03:59:33] [Server thread/INFO]: [Not Secure] <jurandir97> ayudame con mis cosas
+[03:59:38] [Server thread/INFO]: [Not Secure] <Ricardo20104> ontas?
+[03:59:40] [Server thread/INFO]: [Not Secure] <jurandir97> no encuentro
+[03:59:42] [Server thread/INFO]: jurandir97 was shot by Skeleton
+[03:59:55] [Server thread/INFO]: [Not Secure] <Ricardo20104> onde moriste p
+[04:00:27] [Server thread/INFO]: [Not Secure] <Ricardo20104> listo
+[04:00:32] [Server thread/INFO]: [Not Secure] <jurandir97> gracias
+[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1524, y=68, z=-12292} hx{x=1524, y=66, z=-12294}
+[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1524, y=68, z=-12292} hx{x=1524, y=66, z=-12294}
+[04:03:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1524, y=68, z=-12292} hx{x=1524, y=66, z=-12294}
+[04:09:21] [Server thread/INFO]: [Not Secure] <Ricardo20104> a mimir
+[04:09:58] [Server thread/INFO]: [Not Secure] <Ricardo20104> uwu
+[04:10:06] [Server thread/INFO]: [Not Secure] <Ricardo20104> ya nacio el primer puto
+[04:10:27] [Server thread/INFO]: [Not Secure] <jurandir97> sacrificalo al dios makumba
+[04:10:31] [Server thread/INFO]: [Not Secure] <Ricardo20104> jajajajaja
+[04:10:54] [Server thread/INFO]: [Not Secure] <jurandir97> douerme
+[04:11:22] [Server thread/INFO]: [Not Secure] <jurandir97> pasa papas
+[04:11:35] [Server thread/INFO]: [Not Secure] <Ricardo20104> ya no tengo
+[04:11:40] [Server thread/INFO]: [Not Secure] <Ricardo20104> se las di todas a esos putos
+[04:11:42] [Server thread/INFO]: [Not Secure] <jurandir97> tinte blanco
+[04:11:47] [Server thread/INFO]: [Not Secure] <Ricardo20104> tengo esto mira
+[04:12:13] [Server thread/INFO]: [Not Secure] <Ricardo20104> te sirve?
+[04:12:20] [Server thread/INFO]: [Not Secure] <jurandir97> gracias
+[04:18:48] [Server thread/INFO]: Villager cev['Villager'/77122, l='ServerLevel[world]', x=1515.23, y=67.00, z=-12219.78] died, message: 'Villager was slain by Ricardo20104'
+[04:18:54] [Server thread/INFO]: Villager cev['Villager'/79364, l='ServerLevel[world]', x=1493.97, y=67.00, z=-12243.97] died, message: 'Villager was slain by Ricardo20104'
+[04:19:57] [Server thread/INFO]: BigFatAndrew[/[0:0:0:0:0:0:0:1%0]:49090] logged in with entity id 80605 at (92.5, 65.0, 70.5)
+[04:19:57] [Server thread/INFO]: BigFatAndrew joined the game
+[04:19:59] [Server thread/INFO]: [Not Secure] <jurandir97> tinte negro?
+[04:20:05] [Server thread/INFO]: BigFatAndrew lost connection: Disconnected
+[04:20:05] [Server thread/INFO]: BigFatAndrew left the game
+[04:20:09] [Server thread/INFO]: [Not Secure] <Ricardo20104> quien es ese?
+[04:20:13] [Server thread/INFO]: [Not Secure] <jurandir97> ni idea
+[04:20:21] [Server thread/INFO]: [Not Secure] <jurandir97> pense tu lo invitaste
+[04:20:37] [Server thread/INFO]: [Not Secure] <Ricardo20104> no
+[04:29:28] [Server thread/INFO]: [Not Secure] <Ricardo20104> chamo
+[04:29:36] [Server thread/INFO]: [Not Secure] <jurandir97> q
+[04:29:55] [Server thread/INFO]: [Not Secure] <Ricardo20104> hay que cerrar el server porque la capacidad se esta alocando
+[04:30:03] [Server thread/INFO]: [Not Secure] <jurandir97> dame 2 minutos
+[04:30:07] [Server thread/INFO]: [Not Secure] <Ricardo20104> si ntp
+[04:31:24] [Server thread/INFO]: [Not Secure] <Ricardo20104> Listo?
+[04:31:29] [Server thread/INFO]: [Not Secure] <jurandir97> pera
+[04:34:19] [Server thread/INFO]: [Not Secure] <Ricardo20104> listo?
+[04:34:36] [Server thread/INFO]: [Not Secure] <jurandir97> ok
+[04:34:39] [Server thread/INFO]: jurandir97 lost connection: Disconnected
+[04:34:39] [Server thread/INFO]: jurandir97 left the game
+[04:34:44] [Server thread/INFO]: Ricardo20104 lost connection: Disconnected
+[04:34:44] [Server thread/INFO]: Ricardo20104 left the game
